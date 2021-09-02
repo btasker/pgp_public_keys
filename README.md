@@ -10,60 +10,60 @@ This repo exists solely to publish my public keys (also available via `pgp.mit.e
 
 ### Commit/Tag Signing Key
 
-Commits will be signed with the private key associated with the following public key (key ID `69CB9D30`)
+Commits will be signed with the private key associated with the following public key (key ID `F289CDD2317B182C`)
 
     -----BEGIN PGP PUBLIC KEY BLOCK-----
 
-    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
-    WOyYOyfixYk74DyQXoSs
-    =hpT2
+    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
+    =/+eu
     -----END PGP PUBLIC KEY BLOCK-----
 
 ----
@@ -72,7 +72,7 @@ Commits will be signed with the private key associated with the following public
 
 In order to verify a signature, you'll need to import my public signing key in your keyring
 
-    gpg --recv-keys --keyserver keyserver.ubuntu.com 69CB9D30
+    gpg --recv-keys --keyserver keyserver.ubuntu.com F289CDD2317B182C
 
 You can then verify that it's been signed with my main key
 
@@ -89,7 +89,7 @@ Check the fingerprint matches below
 Then import and sign with your own key so that it becomes trusted
 
     gpg --import btasker_pub_key.key
-    gpg --edit-key 69CB9D30
+    gpg --edit-key 6E08CD6F
     sign
     y
     [password]
@@ -98,10 +98,10 @@ Signing the key also means that if, in future, I rotate my code signing keys you
     
 Clone the relevant repo down, and then use `verify-commit` along with the commit reference in order to verify the signature
 
-    $ git verify-commit ef0460d67316d26cb49003828ab55503d578bac7
-    gpg: Signature made Tue 03 Aug 2021 09:07:59 BST
-    gpg:                using RSA key BD9924CCE19195478FB73BAF14EE0D05C70FE613
-    gpg: Good signature from "B Tasker <btasker@influxdata.com>" [ultimate]
+    $ git verify-commit 17e2ed8920ec836e2a38af3f614ed8107bfdb8ba
+    gpg: Signature made Thu 02 Sep 2021 09:53:13 BST
+    gpg:                using RSA key 5319093971B655E64CC904DFF289CDD2317B182C
+    gpg: Good signature from "B Tasker <88340935+btasker@users.noreply.github.com>" [ultimate]
 
 If you're verifying a release, you can also use `git verify-tag`
 
